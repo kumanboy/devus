@@ -335,7 +335,7 @@ export default function Home() {
                   alt="image"
               />
             </span>{" "}
-                            bilan jarayonimiz
+                            jarayonimiz 
                         </h1>
 
                         <p className="text-center
