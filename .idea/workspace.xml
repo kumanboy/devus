@@ -4,16 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4433ab70-7c40-498a-91a8-9fb072217866" name="Changes" comment="Update workspace.xml and layout.tsx: Add new task entry and modify metadata description">
-      <change afterPath="$PROJECT_DIR$/.idea/devus.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="4433ab70-7c40-498a-91a8-9fb072217866" name="Changes" comment="Update workspace.xml: Add new task entry and modify changelist comments">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/showcase-navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/showcase-navbar.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -74,7 +79,7 @@
       <workItem from="1730892591651" duration="3087000" />
       <workItem from="1730896769716" duration="4257000" />
       <workItem from="1730947819344" duration="134000" />
-      <workItem from="1730972878601" duration="1157000" />
+      <workItem from="1730972878601" duration="2185000" />
     </task>
     <task id="LOCAL-00001" summary="changed">
       <option name="closed" value="true" />
@@ -172,7 +177,23 @@
       <option name="project" value="LOCAL" />
       <updated>1730974047205</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Update workspace.xml: Add new task entry and modify changelist comments">
+      <option name="closed" value="true" />
+      <created>1730974235516</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1730974235516</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Update workspace.xml: Add new task entry and modify changelist comments">
+      <option name="closed" value="true" />
+      <created>1730974241672</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1730974241672</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,6 +221,7 @@
     <MESSAGE value="Update metadata in layout.tsx and adjust workspace.xml task entries" />
     <MESSAGE value="all in one" />
     <MESSAGE value="Update workspace.xml and layout.tsx: Add new task entry and modify metadata description" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update workspace.xml and layout.tsx: Add new task entry and modify metadata description" />
+    <MESSAGE value="Update workspace.xml: Add new task entry and modify changelist comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update workspace.xml: Add new task entry and modify changelist comments" />
   </component>
 </project>
