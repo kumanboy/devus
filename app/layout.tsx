@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://devus.uz'),
   title: 'Dasturlashga oid maqolalar va dars toplamlar',
   description:
-      'Dasturlash haqida yangiliklar, maslahatlar, va dasturlash sohasidagi eng soʻnggi xabarlar. Bizning blogda dasturlashni oʻrganish va rivojlantirish uchun qoʻllanma topishingiz mumkin.',
+      'Dasturlash haqida yangiliklar, maslahatlar, va dasturlash sohasidagi eng soʻnggi xabarlar. Biz bilan o`z loyihalaringizni amalga oshirishingiz mumkin',
   authors: [{name: 'Husan Davronov', url: 'https://t.me/Coder_davronov'}],
   icons: {icon: './favicon.ico'},
   keywords:
