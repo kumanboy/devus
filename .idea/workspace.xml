@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4433ab70-7c40-498a-91a8-9fb072217866" name="Changes" comment="all in one">
+    <list default="true" id="4433ab70-7c40-498a-91a8-9fb072217866" name="Changes" comment="Update workspace.xml and layout.tsx: Add new task entry and modify metadata description">
+      <change afterPath="$PROJECT_DIR$/.idea/devus.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +74,7 @@
       <workItem from="1730892591651" duration="3087000" />
       <workItem from="1730896769716" duration="4257000" />
       <workItem from="1730947819344" duration="134000" />
-      <workItem from="1730972878601" duration="637000" />
+      <workItem from="1730972878601" duration="1157000" />
     </task>
     <task id="LOCAL-00001" summary="changed">
       <option name="closed" value="true" />
@@ -161,7 +164,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730973191126</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Update workspace.xml and layout.tsx: Add new task entry and modify metadata description">
+      <option name="closed" value="true" />
+      <created>1730974047205</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1730974047205</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,6 +199,7 @@
     <MESSAGE value="Update meta tags in page.tsx and adjust workspace.xml task entries" />
     <MESSAGE value="Update metadata in layout.tsx and adjust workspace.xml task entries" />
     <MESSAGE value="all in one" />
-    <option name="LAST_COMMIT_MESSAGE" value="all in one" />
+    <MESSAGE value="Update workspace.xml and layout.tsx: Add new task entry and modify metadata description" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update workspace.xml and layout.tsx: Add new task entry and modify metadata description" />
   </component>
 </project>
